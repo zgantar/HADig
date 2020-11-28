@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Tinkerforge">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/dev/Libraries/Tinkerforge/2.1.19/Tinkerforge.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/dev/Libraries/Tinkerforge/2.1.19/Tinkerforge.jar!/" />
+    </SOURCES>
+  </library>
+</component>

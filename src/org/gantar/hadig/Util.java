@@ -4,7 +4,7 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.tinkerforge.*;
-import jdk.nashorn.internal.parser.JSONParser;
+//import jdk.nashorn.internal.parser.JSONParser;
 
 import org.gantar.hadig.tinkerforge.AmbientLightSubroutine;
 import org.gantar.hadig.tinkerforge.HumiditySubroutine;
@@ -127,15 +127,15 @@ public class Util {
         IOSubroutine ioSubroutine = new IOSubroutine();
         ioSubroutine.diagnose(devices, resources, ipcon);
 
-        TemperatureSubroutine temperatureSubroutine = new TemperatureSubroutine();
-        temperatureSubroutine.diagnose(devices, resources, ipcon);
-
-        HumiditySubroutine humiditySubroutine = new HumiditySubroutine();
-        humiditySubroutine.diagnose(devices, resources, ipcon);
-
-        AmbientLightSubroutine ambientLightSubroutine = new AmbientLightSubroutine();
-        ambientLightSubroutine.diagnose(devices, resources, ipcon);
-
+//        TemperatureSubroutine temperatureSubroutine = new TemperatureSubroutine();
+//        temperatureSubroutine.diagnose(devices, resources, ipcon);
+//
+//        HumiditySubroutine humiditySubroutine = new HumiditySubroutine();
+//        humiditySubroutine.diagnose(devices, resources, ipcon);
+//
+//        AmbientLightSubroutine ambientLightSubroutine = new AmbientLightSubroutine();
+//        ambientLightSubroutine.diagnose(devices, resources, ipcon);
+//
 //        DualRelaySubroutine dualRelaytSubroutine = new DualRelaySubroutine();
 //        dualRelaytSubroutine.diagnose(devices, resources, ipcon);
     }

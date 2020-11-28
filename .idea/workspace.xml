@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HADig:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32007726-d46a-425a-a32a-5ce63ee85b5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Tinkerforge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HADig.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HADig.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/gantar/hadig/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/gantar/hadig/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/gantar/hadig/elements.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/gantar/hadig/elements.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/gantar/hadig/elements_test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/gantar/hadig/elements_test.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kQJrZMib8x8Md2J1JbygXBLb9x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/dev/Libraries/ApacheCommonsLang/3.5/commons-lang3-3.5.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.gantar.hadig.Main" />
+      <module name="HADig" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32007726-d46a-425a-a32a-5ce63ee85b5d" name="Default Changelist" comment="" />
+      <created>1540895133716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540895133716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="100" width="1024" height="844" key="#Project_Structure" timestamp="1606553772581">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="448" y="100" width="1024" height="844" key="#Project_Structure/0.0.1920.1044@0.0.1920.1044" timestamp="1606553772581" />
+    <state x="424" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605627845822">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="424" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1605627845822" />
+    <state x="698" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606551951519">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="698" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1606551951519" />
+    <state x="640" y="266" key="FileChooserDialogImpl" timestamp="1605627511141">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="640" y="266" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1605627511141" />
+    <state width="1897" height="223" key="GridCell.Tab.0.bottom" timestamp="1606551499063">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1606551499063" />
+    <state width="1897" height="223" key="GridCell.Tab.0.center" timestamp="1606551499061">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="223" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1606551499061" />
+    <state width="1897" height="223" key="GridCell.Tab.0.left" timestamp="1606551499060">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="223" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1606551499060" />
+    <state width="1897" height="223" key="GridCell.Tab.0.right" timestamp="1606551499062">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="223" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1606551499062" />
+    <state width="1897" height="223" key="GridCell.Tab.1.bottom" timestamp="1606551481857">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="223" key="GridCell.Tab.1.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1606551481857" />
+    <state width="1897" height="223" key="GridCell.Tab.1.center" timestamp="1606551481855">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="223" key="GridCell.Tab.1.center/0.0.1920.1044@0.0.1920.1044" timestamp="1606551481855" />
+    <state width="1897" height="223" key="GridCell.Tab.1.left" timestamp="1606551481854">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="223" key="GridCell.Tab.1.left/0.0.1920.1044@0.0.1920.1044" timestamp="1606551481854" />
+    <state width="1897" height="223" key="GridCell.Tab.1.right" timestamp="1606551481855">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1897" height="223" key="GridCell.Tab.1.right/0.0.1920.1044@0.0.1920.1044" timestamp="1606551481855" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/gantar/hadig/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/gantar/hadig/tinkerforge/IOSubroutine.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/gantar/hadig/tinkerforge/IOSubroutine.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/gantar/hadig/tinkerforge/IOSubroutine.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/gantar/hadig/tinkerforge/MasterBrickSubroutine.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>device.getPortConfiguration('A')</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Integer.parseInt(resources.getString(&quot;IO16_&quot; + identity.uid + &quot;_a&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>conf.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>conf.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>conf.directionMask</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>conf.valueMask</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>device.getPortConfiguration('b')</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>device.getPortConfiguration('a')</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>device.getPortConfiguration('B')</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

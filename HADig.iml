@@ -7,8 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Apache commons" level="application" />
-    <orderEntry type="library" name="Gson" level="application" />
-    <orderEntry type="library" name="Tinkerforge" level="application" />
+    <orderEntry type="library" exported="" name="Gson" level="project" />
+    <orderEntry type="library" exported="" name="Tinkerforge" level="project" />
+    <orderEntry type="library" exported="" name="commons-lang3-3.5" level="project" />
   </component>
 </module>

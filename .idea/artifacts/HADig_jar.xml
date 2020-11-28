@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HADig:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HADig_jar</output-path>
+    <root id="archive" name="HADig.jar">
+      <element id="module-output" name="HADig" />
+      <element id="extracted-dir" path="$USER_HOME$/dev/Libraries/Gson/gson-2.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/dev/Libraries/Gson/gson-2.8.4-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/dev/Libraries/Gson/gson-2.8.4-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/dev/Libraries/ApacheCommonsLang/3.5/commons-lang3-3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/dev/Libraries/Tinkerforge/2.1.19/Tinkerforge.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
